@@ -5,4 +5,4 @@ I don’t have prior programming experience. However, I did do my minor in stati
 During my undergraduate, I completed my minor in applied statistics & data analysis. I took 5 statistics courses and used SAS in 3 of those courses. My final statistical course was in Regression Analyses. 
 I have no experience with R or Python
 I hope to learn the fundamental of programming and learn how to best use R and Python.
-7.  Is there anything else you would like to share with us?
+I’m a little overwhelmed because this is my first programming course plus I work full-time but I’m really excited to be challenged and grow from this course. 
