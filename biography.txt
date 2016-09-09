@@ -1,7 +1,7 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 Esther Warui
 I find data science appealing because it’s multidisciplinary and can be used in a wide array of sectors. I currently work in healthcare and I’m really interested in using data science to help improve health outcomes.
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I don’t have prior programming experience. However, I did do my minor in statistics so I used SAS- if that counts for programming. Also, I’ve created Access databases in my current work but I don’t have any training in SQL.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
 5.  Do you have other experience with R or Python?
 6.  What do you hope to learn in this class?
