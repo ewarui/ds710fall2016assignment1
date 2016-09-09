@@ -3,6 +3,6 @@ Esther Warui
 I find data science appealing because it’s multidisciplinary and can be used in a wide array of sectors. I currently work in healthcare and I’m really interested in using data science to help improve health outcomes.
 I don’t have prior programming experience. However, I did do my minor in statistics so I used SAS- if that counts for programming. Also, I’ve created Access databases in my current work but I don’t have any training in SQL.
 During my undergraduate, I completed my minor in applied statistics & data analysis. I took 5 statistics courses and used SAS in 3 of those courses. My final statistical course was in Regression Analyses. 
-5.  Do you have other experience with R or Python?
+I have no experience with R or Python
 6.  What do you hope to learn in this class?
 7.  Is there anything else you would like to share with us?
